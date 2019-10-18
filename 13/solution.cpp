@@ -70,6 +70,7 @@ int main(){
             }
         }
         ans=999999;
+        fn(sx,sy,dx,dy,0);
         cout<<ans<<endl;
     }
 }
